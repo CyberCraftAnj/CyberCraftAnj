@@ -24,6 +24,8 @@ _🌱 I’m currently learning Information Technology, Networks, System Administ
 
 <h3>📜 Certifications:</h3>
 
+- Google IT Support Professional Certificate
+
 
 <!---
 CyberCraftAnj/CyberCraftAnj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
