@@ -17,7 +17,7 @@ _Welcome to my page where I share and document the exciting projects, labs, and 
 
 - Active Directory
 
-<h3>Technologies, Frameworks & Write-ups</h3>
+<h3>🖼️ Technologies, Frameworks & Write-ups</h3>
 
 - ITIL
 
