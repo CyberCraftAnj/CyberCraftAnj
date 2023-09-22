@@ -2,8 +2,9 @@
 
 _Welcome to my page where I share and document the exciting projects, labs, and publications I'm currently involved in. Feel free to kick back, relax, and enjoy the content I have in store for you! 🚀🚀🚀_
 
-- 👀 I’m interested in Music, Arts and Information Technology
-- 🌱 I’m currently learning Information Technology, Networks, System Administration, Cloud, Cybersecurity and Coding
+_👀 I’m interested in Music, Arts and Information Technology_
+
+_🌱 I’m currently learning Information Technology, Networks, System Administration, Cloud, Cybersecurity and Coding_
 
 <h3>🌐 Google IT Support Professional</h3>
 
