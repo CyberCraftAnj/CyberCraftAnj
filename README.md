@@ -5,9 +5,21 @@ _Welcome to my page where I share and document the exciting projects, labs, and 
 - 👀 I’m interested in Music, Arts and Information Technology
 - 🌱 I’m currently learning Information Technology, Networks, System Administration, Cloud, Cybersecurity and Coding
 
-<h3>🌐 Information Technology Projects:</h3>
+<h3>🌐 Google IT Support Professional</h3>
+
+- Technical Support Fundamentals
+- The Bits and Bytes of Computer Networking
+- Operating Systems and You: Becoming a Power User
+- System Administration and IT Infrastructure Services
+- IT Security: Defense against the digital dark arts
+
+<h3>👩🏻‍💻 Information Technology Projects:</h3>
 
 - Active Directory
+
+<h3>Technologies, Frameworks & Write-ups</h3>
+
+- ITIL
 
 
 <!---
