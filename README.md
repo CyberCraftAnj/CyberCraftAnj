@@ -6,6 +6,7 @@ _Welcome to my page where I share and document the exciting projects, labs, and 
 - 🌱 I’m currently learning Information Technology, Networks, System Administration, Cloud, Cybersecurity and Coding
 
 <h3>🌐 Information Technology Projects:</h3>
+
 - Active Directory
 
 
