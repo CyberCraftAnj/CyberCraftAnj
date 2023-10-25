@@ -14,6 +14,10 @@ _🌱 I’m currently learning Information Technology, Networks, System Administ
 - System Administration and IT Infrastructure Services
 - IT Security: Defense against the digital dark arts
 
+<h3>🚀Small Wins</h3>
+
+- [Overall Top Performer for the Month of September 2023]()
+
 <h3>👩🏻‍💻 Information Technology Projects:</h3>
 
 - Active Directory
