@@ -16,6 +16,8 @@ _🌱 I’m currently learning Information Technology, Networks, System Administ
 
 <h3>🚀Small Wins</h3>
 
+- [Top 3 in Resolution for the Month of November]()
+- [Highest in Productivity(Core Shift) for the Month of November]()
 - [Overall Top Performer for the Month of September 2023](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Overall%20Top%20Performer%20for%20the%20Month%20of%20September.md)
 
 <h3>👩🏻‍💻 Information Technology Projects:</h3>
