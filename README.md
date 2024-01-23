@@ -9,7 +9,7 @@ _🌱 I’m currently learning Information Technology, Networks, System Administ
 <h3>🌐 Google IT Support Professional</h3>
 
 - [Technical Support Fundamentals](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Google%20IT%20Support%20Professional/Technical%20Support%20Fundamentals.md)
-- The Bits and Bytes of Computer Networking
+- [The Bits and Bytes of Computer Networking](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Google%20IT%20Support%20Professional/The%20Bits%20and%20Bytes%20of%20Computer%20Networking.md)
 - Operating Systems and You: Becoming a Power User
 - System Administration and IT Infrastructure Services
 - IT Security: Defense against the digital dark arts
