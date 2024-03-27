@@ -6,6 +6,10 @@ _👀 I’m interested in Music, Arts and Information Technology_
 
 _🌱 I’m currently learning Information Technology, Networks, System Administration, Cloud, Cybersecurity and Coding_
 
+<h3>📜 Certifications:</h3>
+
+- [Google IT Support Professional Certificate]()
+
 <h3>🌐 Google IT Support Professional</h3>
 
 - [Technical Support Fundamentals](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Google%20IT%20Support%20Professional/Technical%20Support%20Fundamentals.md)
@@ -24,17 +28,9 @@ _🌱 I’m currently learning Information Technology, Networks, System Administ
 - [Stefanini - Highest in Productivity(Core Shift) for the Month of November 2023](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Highest%20in%20Productivity(Core%20Shift)%20for%20the%20Month%20of%20November.md)
 - [Stefanini - Overall Top Performer for the Month of September 2023](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Overall%20Top%20Performer%20for%20the%20Month%20of%20September.md)
 
-<h3>👩🏻‍💻 Information Technology Projects:</h3>
-
-- Active Directory
-
-<h3>🖼️ Technologies, Frameworks & Write-ups</h3>
+<h3>🖼️ Libraries, Frameworks & Write-ups</h3>
 
 - ITIL
-
-<h3>📜 Certifications:</h3>
-
-- Google IT Support Professional Certificate
 
 
 <!---
