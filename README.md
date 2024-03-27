@@ -6,7 +6,7 @@ _👀 I’m interested in Music, Arts and Information Technology_
 
 _🌱 I’m currently learning Information Technology, Networks, System Administration, Cloud, Cybersecurity and Coding_
 
-<h3>📜 Certifications:</h3>
+<h3>📜 Certifications</h3>
 
 - [Google IT Support Professional Certificate]()
 
