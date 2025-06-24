@@ -32,6 +32,9 @@ _🌱 I’m currently learning Information Technology, Networks, System Administ
 - [Stefanini - Ranked 1 Most Hygienic For August 2024](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Ranked%201%20Most%20Hygienic%20For%20August%202024.png)
 - [Stefanini - Quality Champion December 2024](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Quality%20Champion%20December%202024.png)
 - [Stefanini - Ranked 2 Most Hygienic For December 2024](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Ranked%202%20Most%20Hygienic%20For%20December%202024.png)
+- [Stefanini - Top Queue Manager For December 2024](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Top%20Queue%20Manager%20For%20Month%20of%20December%202024.png)
+- [Stefanini - Quality Champion January 2025](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Quality%20Champion%20January%202025.png)
+- [Stefanini - Ranked 2 Most Hygienic January 2025](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Ranked%202%20Most%20Hygienic%20For%20January%202025.png)
 <h3>🖼️ Libraries, Frameworks & Write-ups</h3>
 
 - ITIL
