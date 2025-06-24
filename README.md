@@ -19,14 +19,13 @@ _🌱 I’m currently learning Information Technology, Networks, System Administ
 - [IT Security: Defense against the digital dark arts](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Google%20IT%20Support%20Professional/IT%20Security%3A%20Defense%20against%20the%20digital%20dark%20arts.md)
 
 <h3>🚀Small Wins</h3>
-
+- [Stefanini - Overall Top Performer for the Month of September 2023](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Overall%20Top%20Performer%20for%20the%20Month%20of%20September.md)
+- [Stefanini - Highest in Productivity(Core Shift) for the Month of November 2023](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Highest%20in%20Productivity(Core%20Shift)%20for%20the%20Month%20of%20November.md)
+- [Stefanini - Top 3 in Resolution for the Month of November 2023](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Top%203%20in%20Resolution%20for%20the%20Month%20of%20November.md)
+- [Stefanini - Overall Top Performer for the Month of December 2023](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Overall%20Top%20Performer%20for%20the%20Month%20of%20December%202023.md)
 - [Stefanini - Overall Top Performer for the Month of February 2024](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Stefanini%20-%20Overall%20Top%20Performer%20for%20the%20Month%20of%20February%202024.md)
 - [Stefanini - Quality Champion for the Month of February 2024](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Stefanini%20-%20Quality%20Champion%20for%20the%20Month%20of%20February%202024.md)
 - [Stefanini - Highest in Productivity(Core Shift) for the Month of February 2024](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Highest%20in%20Productivity(Core%20Shift)%20for%20the%20Month%20of%20November.md)
-- [Stefanini - Overall Top Performer for the Month of December 2023](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Overall%20Top%20Performer%20for%20the%20Month%20of%20December%202023.md)
-- [Stefanini - Top 3 in Resolution for the Month of November 2023](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Top%203%20in%20Resolution%20for%20the%20Month%20of%20November.md)
-- [Stefanini - Highest in Productivity(Core Shift) for the Month of November 2023](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Highest%20in%20Productivity(Core%20Shift)%20for%20the%20Month%20of%20November.md)
-- [Stefanini - Overall Top Performer for the Month of September 2023](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Overall%20Top%20Performer%20for%20the%20Month%20of%20September.md)
 - [Stefanini - Hygienic Adherence for July 2024](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Hygienic%20Adherence%20for%20July%202024.png)
 - [Stefanini - Top Queue Manager For Month of July 2024](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Top%20Queue%20Manager%20For%20Month%20of%20July%202024.png)
 <h3>🖼️ Libraries, Frameworks & Write-ups</h3>
