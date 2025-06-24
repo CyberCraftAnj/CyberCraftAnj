@@ -29,7 +29,7 @@ _🌱 I’m currently learning Information Technology, Networks, System Administ
 - [Stefanini - Highest in Productivity(Core Shift) for the Month of February 2024](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Highest%20in%20Productivity(Core%20Shift)%20for%20the%20Month%20of%20November.md)
 - [Stefanini - Hygienic Adherence for July 2024](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Hygienic%20Adherence%20for%20July%202024.png)
 - [Stefanini - Top Queue Manager For Month of July 2024](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Top%20Queue%20Manager%20For%20Month%20of%20July%202024.png)
-- [Stefanini - Ranked 1 Most Hygienic For August 2024]([https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Top%20Queue%20Manager%20For%20Month%20of%20July%202024.png](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Ranked%201%20Most%20Hygienic%20For%20August%202024.png))
+- [Stefanini - Ranked 1 Most Hygienic For August 2024](https://github.com/CyberCraftAnj/CyberCraftAnj/blob/main/Small%20Wins/Stefanini/Ranked%201%20Most%20Hygienic%20For%20August%202024.png))
 <h3>🖼️ Libraries, Frameworks & Write-ups</h3>
 
 - ITIL
